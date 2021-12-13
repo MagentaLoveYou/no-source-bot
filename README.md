@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/henriqueclaranhan/telegram-music-downloader-bot/blob/master/icon.png" width="190">
   <h1>Telegram Music Downloader Bot</h1>
-  A Telegram bot to download music from YouTube. Click <a href="https://t.me/TLMusicDownloader_bot">@TLMusicDownloader_bot</a> to use.
+  A Telegram bot to download music from YouTube. Click <a href="https://t.me/no_source_bot">@no_source_bot</a> to use.
 </div>
 
 ## :arrow_down: Installation
